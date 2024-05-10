@@ -5,3 +5,4 @@ Truy cập localhost/eCommerceSite-PHP/admin để xem trang admin
 
 Email   : admin@mail.com
 Password: Password@123
+
